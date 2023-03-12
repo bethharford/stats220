@@ -1,11 +1,14 @@
 ### stats220
 # **Hello Everybody** 
 ### *Welcome to my little corner on the internet!* 
-## `Two facts and a lie!`
+## `What can you expect from me?`
+### You can expect 
 
-* I am a twin 
-* Justin Bieber came to my old school and performed 
-* I have never broken a bone
+* New projects 
+* New html pages 
+* New learnings 
+
+### I hope you can join me on my journey to learning more about data technologies! In the meantime, please give me some of the benefit of the doubt! I am learning as I go
 
 ### Here is a link to my new website! 
 
