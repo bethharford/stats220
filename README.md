@@ -14,4 +14,6 @@
 
 ### Here is a link to my new website! 
 
+ https://bethharford.github.io/stats220/
+
 
