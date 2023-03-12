@@ -1,4 +1,4 @@
 # stats220
-## **Hello Everybody** 
+# **Hello Everybody** 
 *Welcome to my little corner on the internet!* 
 
