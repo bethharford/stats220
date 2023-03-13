@@ -1,0 +1,61 @@
+---
+title: "Creating images with R"
+subtitle: "with a little bit of Magick"
+author: "Beth Harford"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+
+```
+
+```{r file ='meme.R', eval= FALSE}
+```
+
+```{r file = 'animation.R', eval = FALSE}
+
+```
+
+```{css}
+
+p { 
+font-weight: normal; 
+}
+
+body {
+background-color: 	#FFFF00; 
+}
+
+h2:hover { 
+
+color: white;
+
+}
+
+
+
+
+
+```
+
+## R Markdown
+
+## My meme
+
+My meme includes two contrasting pictures of Kim Kardashian. They are contrasting because in one image she is happy and in the other one she is miserable. In general, I think the kardasian family is very dramatic so I thought it was fitting to include Kim Kardasian with the specific text I used alongside.
+
+My meme is different because I have taken two arbitrary photos of Kim Kardashain on the internet and spliced them with text that compliments her expression in each photo.
+
+
+![](my_meme.png)
+
+## My animated GIF
+
+My animated gif includes several frames which symbolize a countdown to the new year. My animated gif is original because I used counts to signal the 3,2,1 countdown and included the char_vector to include happy new year" as the last frame in the sequence.
+
+
+![](my_animation.gif)
+
+
