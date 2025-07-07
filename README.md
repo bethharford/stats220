@@ -1,4 +1,4 @@
-### stats220
+## Data Science 
 # **Hello Everybody** 
 ### *Welcome to my little corner on the internet!* 
 1. My name is Beth Harford
